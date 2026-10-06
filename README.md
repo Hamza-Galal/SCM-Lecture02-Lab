@@ -9,3 +9,5 @@ Current modules:
 Use Git history and branches to complete the lab tasks.
 
 Project status: classroom prototype.
+
+The stock module is under active review.
