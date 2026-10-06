@@ -1,3 +1,4 @@
 P001,Laptop,1500
 P002,Monitor,400
 P003,Keyboard,80
+P004,Mouse,35
