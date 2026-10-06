@@ -7,3 +7,5 @@ Current modules:
 - Stock checking
 
 Use Git history and branches to complete the lab tasks.
+
+Project status: classroom prototype.
